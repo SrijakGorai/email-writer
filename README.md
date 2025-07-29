@@ -7,11 +7,17 @@ A smart Email Assistant application built using Spring Boot for backend and inte
 🧠 Uses Gemini API for intelligent, context-aware responses.
 
 🛠️ Tech Stack
+
 Backend:
+
 Java + Spring Boot
+
 Gemini API (Google AI)
+
 RESTful API
 
 Frontend:
+
 React.js
+
 Axios for API requests
