@@ -3,12 +3,14 @@ A smart Email Assistant application built using Spring Boot for backend and inte
 
 🚀 Features
 ✉️ Accepts incoming emails and auto-generates draft replies.
+
 💡 Allows selecting tone (e.g., Friendly, Professional and casual).
+
 🧠 Uses Gemini API for intelligent, context-aware responses.
 
 🛠️ Tech Stack
 
-Backend:
+🛠️Backend:
 
 Java + Spring Boot
 
@@ -16,7 +18,7 @@ Gemini API (Google AI)
 
 RESTful API
 
-Frontend:
+🛠️Frontend:
 
 React.js
 
